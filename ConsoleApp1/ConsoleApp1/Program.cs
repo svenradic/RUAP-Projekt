@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Svena Radića!");
+            Console.WriteLine("Pozdrav iz aplikacije od Svena Radića - 52178466097!");
         }
     }
 }
